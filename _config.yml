@@ -57,7 +57,7 @@ graph:
   # releases_json: {releases: [] }
   # records_json_api: {data: { records: [ {compiledRelease: {} }] } }
   # csv: a csv file
-  - contracts_format: "csv"
+  - contracts_format: "json"
 
 # Customize the More information menu button title
 menu_button_title: More information
